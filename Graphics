@@ -1,0 +1,9 @@
+A. When you view a raster image at its original size or smaller, the pixels are invisible—they're just too small to see. They only become apparent when you zoom in or make the image larger. 
+Vector graphics are quite different from raster. You can make them any size, big or small, without losing quality. In the example below, the image has been enlarged, but there's no pixelation—not even a little bit. 
+A raster image would be best for pictures like for any sort of profile used as a basic need. Vector graphics probably would be best maybe during a criminal investigation. Need a clear close up images on suspect from any distance.
+
+B.  To tell it how much data to disregard by setting the image compression rate.
+
+C. The only similarities i see was they are all file formats for images and have different qualities for images. gif is best when animation is required and for line and simple drawings. It is not good with photos and images with gradients. 
+JPEG is good for photos especially without high contrast, screenshots especially of movies, games and similar content. JPEG is bad for images with high contrast, detailed images and simple graphics (files are larger).
+PNG is good for Line art, illustrations, photos with high contrast, transparency, especially alpha channel transparency and application screenshots or other detailed diagrams. While on the flip side doesnt do well with Photos with low contrast (file sizes are larger).
