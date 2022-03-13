@@ -1,0 +1,5 @@
+i. A variable is like a box in the computer’s memory where you can store a single value. If you want to use the result of an evaluated expression later in your program, you can save it inside a variable.
+the authur used varible name eggs, spam and bacon because it obeyed the three rules for varibles being used. Which made them valid varibles. An example would be cheese = 1
+ii. An assignment statement consists of a variable name, an equal sign (called the assignment operator), and the value to be stored. ham = 2
+iii. A function is a action done by the rpogram that includes () at the end of the functions names. example print()
+iiii. The chapter doesnt exactly explain what data types are same for function but based on my knowlegde data types are input the program uses for output GUI and input. Also what you set varibles in the program  to be so it is read and used properly by the proigram. cheese = int(cheese)
