@@ -1,0 +1,6 @@
+2.“IP address”is a shorter way of saying“Internet Protocol address.”IP addresses are the numbers assigned to computer network interfaces. Although we use names to refer to the things we seek on the Internet,
+such as www.example.org, computers translate these names into numerical addresses so they can send data to the right location.
+IPv4 addresses are written as string four numbers 0 through 255 separated by dots.  IPv6 addresses are considerably longer strings of numbers, so they are written using hexadecimals,
+which can fit more information into fewer digits. Colons separate the segments of IPv6 addresses instead of dots;
+4. It is a not-for-profit partnership of people from all over the world dedicated to keeping the Internet secure, stable and interoperable. ICANN allocates IP address blocks to the five Regional Internet Registries
+(RIRs) around the world. (The “regions” of the Regional Internet Registries are roughly continental in size.)
