@@ -1,0 +1,6 @@
+Scheme tells your browser what type of address it is so the brower connects to it correctly. http and https are examples of its part in the url. 
+A domain is each segment of the domain name separated by a period. edu.gfcglobal.org is a domain.
+top level domains may give you more general information on what kind of site it is. org
+a default page is a site that is the first site to automatically open when a browser is opened. google
+parameter string starts with a question mark and provides information to the browser to load the correct web page. ?v=dQw4w9WgXcQ
+Anchor begins with a hashtag and is used to direct your browser to a specific part of a very long page, much like a bookmark. #writing
