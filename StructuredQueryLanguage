@@ -1,0 +1,2 @@
+2. a. RDBMS stands for relational database management system. RDBMS is the basis for SQL, and for all modern database systems such as MS SQL Server, IBM DB2, Oracle, MySQL, and Microsoft Access.
+b. the relationship between employees and orders are Employee id which also is the primary key. 
