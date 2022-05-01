@@ -1,0 +1,1 @@
+b. is a code injection technique that might destroy your database. useing sql parameters will prevent this hacking technique from working.
