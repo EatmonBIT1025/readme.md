@@ -1,0 +1,2 @@
+a. ii. 1. order id is what i would make the primary key. 2. They would be relted by the order types. 3. The foreign key could be a password.
+iii. a data type tells the database what functions can be performed with the data. the proper amount of storage space is allocated for our data.
